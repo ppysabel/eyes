@@ -3,6 +3,9 @@
 
 ## Exercise on Eyes
 In this project, I have created a web page with  two eyes that follows the mass movement. As you can see that if I move the mass, the mass events will be picked up and will be moving the eyeballs to match the mass.
+## How to Run
+1. Downloads each file and store them into one folder.
+2. Open an empty browser and drag index.html into the browser.
 ## Roadmap
 I am not expecting any update on this exercise.
 ## License
